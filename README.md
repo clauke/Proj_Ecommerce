@@ -5,10 +5,12 @@ PROJETO DE BUSINESS INTELLIGENCE PARA E-COMMERCE
 VISÃO GERAL
 
 I.	Introdução
+
 Este é um projeto de BI and Visualization para Comércio Eletrônico que visa responder algumas questões de negócio para ajudar a tomada de decisões.
 O dataset escolhido foi o superstore.csv disponível em https://public.tableau.com/app/resources/sample-data?qt-overview_resources=1#qt-overview_resources.
 
 II.	Escopo
+
 Análise estatística dos dados para responder às seguintes perguntas de negócio: 
 •	Lucro anual da empresa
 •	Comparação entre o Total de Vendas e Lucro Anuais
