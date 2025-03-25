@@ -11,7 +11,8 @@ O dataset escolhido foi o superstore.csv disponível em https://public.tableau.c
 
 II.	Escopo
 
-Análise estatística dos dados para responder às seguintes perguntas de negócio: 
+Análise estatística dos dados para responder às seguintes perguntas de negócio:
+
 •	Lucro anual da empresa
 •	Comparação entre o Total de Vendas e Lucro Anuais
 •	Nº de pedidos por Estado
@@ -20,18 +21,23 @@ Análise estatística dos dados para responder às seguintes perguntas de negóc
 •	Lucro Total
 
 III.	Skills e Conhecimentos empregados
+
 As seguintes ferramentas/conhecimentos foram utilizadas neste projeto:
+
 •	Sublime Text – conversão do dataset originalmente em .xls par .csv; codificação
 •	Python – Dash, Plotly, HTML e CSS
 
 IV.	Etapas
+
 •	Análise exploratória dos dados.
 •	ETL.
 •	Codificação das visualizações.
 •	Publicação do projeto no GitHub.
 
 V.	Considerações
+
 A associação Plotly-Dash é muito poderosa para criar visualizações interativas e a construção de data apps. Como toda ferramenta gratuita, precisamos nos munir de mais conhecimento, como HTML e CSS. Em contrapartida, temos maior possibilidade de customizar nosso trabalho.
 
 VI.	Acesso
+
 Para visualizar o dashboard, baixe os arquivos superstore.csv e varejo.py. Abra um prompt e execute o arquivo Python.
